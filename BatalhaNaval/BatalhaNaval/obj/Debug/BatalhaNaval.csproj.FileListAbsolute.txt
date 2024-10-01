@@ -1,0 +1,10 @@
+E:\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+E:\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+E:\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+E:\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.AssemblyReference.cache
+E:\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.Form1.resources
+E:\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.Properties.Resources.resources
+E:\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.GenerateResource.cache
+E:\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+E:\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+E:\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
